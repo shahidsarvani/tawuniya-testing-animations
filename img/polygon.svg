@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="25px" height="16px" viewBox="60 58 25 16" enable-background="new 60 58 25 16" xml:space="preserve">
+<filter  y="0" x="0" id="a" height="136" width="145" filterUnits="userSpaceOnUse">
+	<feOffset  input="SourceAlpha" dy="10" dx="10"></feOffset>
+	<feGaussianBlur  result="b" stdDeviation="20"></feGaussianBlur>
+	<feFlood  flood-opacity="0.114" flood-color="#095b8b"></feFlood>
+	<feComposite  in2="b" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#a)">
+	<path fill="#FFFFFF" d="M72.5,58L85,74H60L72.5,58z"/>
+</g>
+</svg>

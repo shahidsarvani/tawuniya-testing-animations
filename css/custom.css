@@ -1,0 +1,18 @@
+/* color orange = #e86319 */
+
+.svg_app_get .anchor_circle .anchor_circle__inner.hover-active circle,
+.svg_app_get .anchor_circle .anchor_circle__inner.click-active circle {
+    fill: #e86319;
+}
+
+.svg_app_get .anchor_circle .anchor_circle__inner.hover-active rect,
+.svg_app_get .anchor_circle .anchor_circle__inner.click-active rect {
+    fill: #fff;
+}
+
+#logo_img {
+    position: absolute;
+    width: 25%;
+    right: -6%;
+    opacity: 0.5;
+}
